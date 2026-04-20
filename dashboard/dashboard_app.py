@@ -48,9 +48,9 @@ if page == "About":
     - ML-based load prediction & scheduling recommendations
 
     **Developers:**
-    - 🧑‍💻 Ayush Ranjan (Real-Time Monitoring + Dashboard Enhancements)
-    - 🧠 Srayansh Singh Verma (Pipeline, ML Model & Integration)
-    - 📊 Ayush Tripathi — Model Evaluation (Confusion Matrix + Classification Report)
+    - 🧑‍💻 Yuvraj Yadav (Real-Time Monitoring + Dashboard Enhancements)
+    - 🧠 Lakshay Aggarwal (Pipeline, ML Model & Integration)
+    - 📊 Anurag Pandey — Model Evaluation (Confusion Matrix + Classification Report)
     """)
 
 
