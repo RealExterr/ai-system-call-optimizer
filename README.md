@@ -86,12 +86,10 @@ This improves both **CPU utilization** and **system responsiveness.**
 
 | Name | Contribution |
 |------|--------------|
-| Ayush Ranjan | Real-Time Monitoring system with psutil + UI Enhancements |
-| Srayansh Singh Verma | End-to-end ML pipeline, UI integration |
-| Ayush Tripathi | ML Evaluation: Confusion Matrix + Classification Report |
+| Yuvraj Yadav | Real-Time Monitoring system with psutil + UI Enhancements |
+| Lakshay Aggarwal | End-to-end ML pipeline, UI integration |
+| Anurag Pandey | ML Evaluation: Confusion Matrix + Classification Report |
 
 ### 📌 Model Performance Visualization
 ![Confusion Matrix](reports/confusion_matrix.png)
-# cleanup 
-# cleanup 
-# cleanup 
+
